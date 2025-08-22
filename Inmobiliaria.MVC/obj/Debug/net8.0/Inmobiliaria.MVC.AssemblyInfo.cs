@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inmobiliaria.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc9184cdbfcd7c36582e27a38a7fa7528fa18680")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+402ec12b7d65915f8de822a1554869708942c4ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inmobiliaria.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inmobiliaria.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
